@@ -1,4 +1,26 @@
-# 2StageCompoundCycloidalTorqueCalculator
+# 2StageCompoundCycloidalTorqueCalculator  
+#Example usage:  
+```python
+torques = calculate_dynamic_torques(0.40, 8, 7)
+print(torques)
+```
+Output:
+```
+First stage drive torque: 0.04 Nm  
+First stage ring gear torque: 0.36 Nm  
+First stage disc torque: -0.36 Nm  
+Second stage disc torque: 0.01 Nm  
+Second stage ring gear torque: 0.31 Nm
+Second stage cycloid disc torque: -0.04 Nm
+```
+(note: ```Second stage ring gear torque``` is final (ideal) output torque with the unit under test [17HE19-2004S])
+
+
+
+
+
+
+
 ### Unit under test (17HE19-2004S)
 https://www.omc-stepperonline.com/e-series-nema-17-bipolar-55ncm-77-88oz-in-2a-42x48mm-4-wires-w-1m-cable-connector-17he19-2004s
 
