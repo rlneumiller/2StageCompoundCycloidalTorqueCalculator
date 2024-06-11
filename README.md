@@ -51,3 +51,5 @@ B+ : Green
 B- : Red  
 Please note that the wiring sequence of 17HE19-2004S and 17HS19-2004S1 is different and they cannot be directly substituted for each other.
 
+##### Reference
+DOI: 10.1115/1.4004540
