@@ -45,10 +45,10 @@ https://www.omc-stepperonline.com/e-series-nema-17-bipolar-55ncm-77-88oz-in-2a-4
 * Lead Length: 1000mm
 
 Connections:  
-A+ : Black  
-A- : Blue  
-B+ : Green  
-B- : Red  
+A+ (A1) : Black  
+A- (A2) : Blue  
+B+ (B1) : Green  
+B- (B2) : Red  
 Please note that the wiring sequence of 17HE19-2004S and 17HS19-2004S1 is different and they cannot be directly substituted for each other.
 
 ##### Reference
